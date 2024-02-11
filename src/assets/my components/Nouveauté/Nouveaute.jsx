@@ -22,12 +22,7 @@ export default function Nouveaute() {
             <div className="pt-10">
 
             <Slider {...settings} >
-
-
-            {/* <div className="w-1/5">
-                    
-                </div> */}
-
+       
             <div className=" w-1/4 h-60 bg-[url('pictures/roman-empreinte_maryse.jpg')] bg-[length:100%] transition ease-in-out delay-0 hover:-translate-y-1 hover:scale-110 duration-300 ">
             
             </div>
@@ -47,29 +42,6 @@ export default function Nouveaute() {
             <div className=" w-1/4 h-60 bg-[url('pictures/roman5.jpeg')] bg-[length:100%] transition ease-in-out delay-0 hover:-translate-y-1 hover:scale-110 duration-300">
            
             </div>
-
-
-            {/* <div className="w-20px">
-                    
-                </div>
-
-                <div className="w-20px">
-                    
-                </div>
-
-                <div className="w-20px">
-                    
-                </div>
-
-                <div className="w-20px">
-                    
-                </div>
-
-                <div className="w-20px">
-                    
-                </div> */}
-
-
 
             </Slider>
             </div>

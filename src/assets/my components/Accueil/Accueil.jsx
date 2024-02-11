@@ -11,7 +11,7 @@ export default function Accueil() {
 
     return (
         <>
-            {/* <div > */}
+           
             <div  >
                 <BlockAccueil1 h1="Bientôt entre vos mains, chers lecteurs Les mots qu’il vous faut pour soigner vos maux Des phrases qu’il vous faut pour nourrir votre cerveau" src="pictures/roman-livres_c_nul.jpeg" />
             </div>
@@ -31,7 +31,6 @@ export default function Accueil() {
                 <Footer/>
             </div>
 
-            {/* </div> */}
         </>
     )
 }
